@@ -1,0 +1,183 @@
+.div-button{
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-left: auto;
+}
+
+.button-ganjie {
+    position: relative;
+    outline: none;
+    text-decoration: none;
+    border-radius: 50px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    height: 60px;
+    width: 210px;
+    opacity: 1;
+    background-color: #ffffff;
+    border: 2px solid rgba(167, 83, 93, 0.6);
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+
+.button-ganjie span {
+    color: #A7535D;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.7px;
+}
+.button-ganjie:hover {
+    animation: rotate 0.7s ease-in-out both;
+    background-color: #A7535D;
+}
+.button-ganjie:hover span {
+    animation: storm 0.7s ease-in-out both;
+    animation-delay: 0.06s;
+    color: #ffffff;
+}
+
+
+.button-kamwoh {
+    position: relative;
+    outline: none;
+    text-decoration: none;
+    border-radius: 50px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    height: 60px;
+    width: 210px;
+    opacity: 1;
+    background-color: #ffffff;
+    border: 2px solid rgba(116, 1, 167, 0.6);
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+
+.button-kamwoh span {
+    color: #7401a7;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.7px;
+}
+.button-kamwoh:hover {
+    animation: rotate 0.7s ease-in-out both;
+    background-color: #7401a7;
+}
+.button-kamwoh:hover span {
+    animation: storm 0.7s ease-in-out both;
+    animation-delay: 0.06s;
+    color: #ffffff;
+}
+
+
+.button-yukang {
+    position: relative;
+    outline: none;
+    text-decoration: none;
+    border-radius: 50px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    height: 60px;
+    width: 210px;
+    opacity: 1;
+    background-color: #ffffff;
+    border: 2px solid rgba(22, 76, 167, 0.6);
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+
+.button-yukang span {
+    color: #164ca7;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.7px;
+}
+.button-yukang:hover {
+    animation: rotate 0.7s ease-in-out both;
+    background-color: #164ca7;
+}
+.button-yukang:hover span {
+    animation: storm 0.7s ease-in-out both;
+    animation-delay: 0.06s;
+    color: #ffffff;
+}
+
+
+.button-sign {
+    position: relative;
+    outline: none;
+    text-decoration: none;
+    border-radius: 50px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    height: 60px;
+    width: 210px;
+    opacity: 1;
+    background-color: #ffffff;
+    border: 2px solid rgba(23, 0, 167, 0.6);
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+
+.button-sign span {
+    color: #1700a7;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.7px;
+}
+.button-sign:hover {
+    animation: rotate 0.7s ease-in-out both;
+    background-color: #1700A7;
+}
+.button-sign:hover span {
+    animation: storm 0.7s ease-in-out both;
+    animation-delay: 0.06s;
+    color: #ffffff;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg) translate3d(0, 0, 0);
+    }
+    25% {
+        transform: rotate(3deg) translate3d(0, 0, 0);
+    }
+    50% {
+        transform: rotate(-3deg) translate3d(0, 0, 0);
+    }
+    75% {
+        transform: rotate(1deg) translate3d(0, 0, 0);
+    }
+    100% {
+        transform: rotate(0deg) translate3d(0, 0, 0);
+    }
+}
+@keyframes storm {
+    0% {
+        transform: translate3d(0, 0, 0) translateZ(0);
+    }
+    25% {
+        transform: translate3d(4px, 0, 0) translateZ(0);
+    }
+    50% {
+        transform: translate3d(-3px, 0, 0) translateZ(0);
+    }
+    75% {
+        transform: translate3d(2px, 0, 0) translateZ(0);
+    }
+    100% {
+        transform: translate3d(0, 0, 0) translateZ(0);
+    }
+}
