@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/buddy-graduation-card-2019/precache-manifest.cab68ea0f13a60bb66416f9faf2369db.js"
+  "/buddy-graduation-card-2019/precache-manifest.13ff43e2f963184eca5134011c4501b5.js"
 );
 
 self.addEventListener('message', (event) => {

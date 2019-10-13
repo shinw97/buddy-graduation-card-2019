@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fc98a8e7397e2f945ec876e0cfcd3ee",
+    "revision": "4cec90c27e506800478ce25f012841e3",
     "url": "/buddy-graduation-card-2019/index.html"
   },
   {
