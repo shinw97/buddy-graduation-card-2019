@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/buddy-graduation-card-2019/static/css/main.dee031f2.chunk.css",
+    "main.js": "/buddy-graduation-card-2019/static/js/main.4c55ca52.chunk.js",
+    "main.js.map": "/buddy-graduation-card-2019/static/js/main.4c55ca52.chunk.js.map",
+    "runtime-main.js": "/buddy-graduation-card-2019/static/js/runtime-main.f50a8e33.js",
+    "runtime-main.js.map": "/buddy-graduation-card-2019/static/js/runtime-main.f50a8e33.js.map",
+    "static/js/2.4eac6797.chunk.js": "/buddy-graduation-card-2019/static/js/2.4eac6797.chunk.js",
+    "static/js/2.4eac6797.chunk.js.map": "/buddy-graduation-card-2019/static/js/2.4eac6797.chunk.js.map",
+    "index.html": "/buddy-graduation-card-2019/index.html",
+    "precache-manifest.cab68ea0f13a60bb66416f9faf2369db.js": "/buddy-graduation-card-2019/precache-manifest.cab68ea0f13a60bb66416f9faf2369db.js",
+    "service-worker.js": "/buddy-graduation-card-2019/service-worker.js",
+    "static/css/main.dee031f2.chunk.css.map": "/buddy-graduation-card-2019/static/css/main.dee031f2.chunk.css.map",
+    "static/media/first-page.PNG": "/buddy-graduation-card-2019/static/media/first-page.3b4b3551.PNG",
+    "static/media/ganjie.jpg": "/buddy-graduation-card-2019/static/media/ganjie.2fe9f4c1.jpg",
+    "static/media/grad-hat-vector.png": "/buddy-graduation-card-2019/static/media/grad-hat-vector.b2f87f6f.png",
+    "static/media/graduation-comic-doodle-time-1254473.jpeg": "/buddy-graduation-card-2019/static/media/graduation-comic-doodle-time-1254473.9db79ca8.jpeg",
+    "static/media/kamwoh.jpg": "/buddy-graduation-card-2019/static/media/kamwoh.d22d7ac0.jpg",
+    "static/media/logo.svg": "/buddy-graduation-card-2019/static/media/logo.25bf045c.svg",
+    "static/media/otter-grad.jpg": "/buddy-graduation-card-2019/static/media/otter-grad.e60c6eda.jpg",
+    "static/media/plane1.png": "/buddy-graduation-card-2019/static/media/plane1.162c1289.png",
+    "static/media/myStyle.css": "/buddy-graduation-card-2019/static/media/red-green-blue.4a7c1fa3.png",
+    "static/media/signatures.png": "/buddy-graduation-card-2019/static/media/signatures.e9399c95.png",
+    "static/media/test-wishes.PNG": "/buddy-graduation-card-2019/static/media/test-wishes.f6626183.PNG",
+    "static/media/wishes-gj.PNG": "/buddy-graduation-card-2019/static/media/wishes-gj.6450a383.PNG",
+    "static/media/wishes-woh.PNG": "/buddy-graduation-card-2019/static/media/wishes-woh.8700435d.PNG",
+    "static/media/wishes-yk.PNG": "/buddy-graduation-card-2019/static/media/wishes-yk.7075c653.PNG",
+    "static/media/yukang.jpg": "/buddy-graduation-card-2019/static/media/yukang.7a6075c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f50a8e33.js",
+    "static/js/2.4eac6797.chunk.js",
+    "static/css/main.dee031f2.chunk.css",
+    "static/js/main.4c55ca52.chunk.js"
+  ]
+}
